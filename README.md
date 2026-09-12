@@ -10,4 +10,5 @@
 
 
 ## 📊 My LeetCode Stats:
-![LeetCode Stats](https://vercel.app)
+
+<img src="https://vercel.app" alt="LeetCode Badge" />
