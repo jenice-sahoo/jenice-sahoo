@@ -3,7 +3,7 @@
 
 # 📊 Profile Stats:
 
-| ## 🐙 GitHub Metrics | ## 💡 LeetCode Status |
+|🐙 GitHub Metrics |💡 LeetCode Status |
 | :--- | :--- |
 | • **Total Commits:** ![Commits](https://shields.io) <br> • **Profile Views:** ![Views](https://komarev.com) | • **Solved Problems:** `29 / 4047` <br> • **Rank:** `3,727,909` |
 
